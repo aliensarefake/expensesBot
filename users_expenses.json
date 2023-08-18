@@ -1,0 +1,65 @@
+{
+    "467461008": {
+        "lastRecordedDate": null,
+        "lastUpdatedMonth": null,
+        "currentDailyExpenditure": 3.0,
+        "currentWeeklyExpenditure": 0,
+        "currentMonthlyExpenditure": 3.0,
+        "expenditureCategory": {
+            "transport": [
+                [
+                    "Jb day trip",
+                    3.0
+                ]
+            ],
+            "food": [],
+            "personal": []
+        },
+        "dailyLimit": null,
+        "weeklyLimit": null,
+        "monthlyLimit": 400,
+        "dailyHistory": {},
+        "monthlyHistory": {}
+    },
+    "529697484": {
+        "lastRecordedDate": null,
+        "lastUpdatedMonth": null,
+        "currentDailyExpenditure": 3.0,
+        "currentWeeklyExpenditure": 0,
+        "currentMonthlyExpenditure": 3.0,
+        "expenditureCategory": {
+            "test 1": [
+                [
+                    "Chicken rice",
+                    3.0
+                ]
+            ]
+        },
+        "dailyLimit": null,
+        "weeklyLimit": null,
+        "monthlyLimit": null,
+        "dailyHistory": {},
+        "monthlyHistory": {}
+    },
+    "870148089": {
+        "lastRecordedDate": null,
+        "lastUpdatedMonth": null,
+        "currentDailyExpenditure": 0,
+        "currentWeeklyExpenditure": 0,
+        "currentMonthlyExpenditure": 0,
+        "expenditureCategory": {
+            "Food": [],
+            "Transport": [],
+            "Entertainment": [],
+            "Utilities": [],
+            "Education": [],
+            "Travel": [],
+            "Misc": []
+        },
+        "dailyLimit": null,
+        "weeklyLimit": null,
+        "monthlyLimit": null,
+        "dailyHistory": {},
+        "monthlyHistory": {}
+    }
+}
